@@ -1,0 +1,34 @@
+_repo: My-experiments-with-volcanoes_69830
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jaggar, Thomas Augustus
+    birthdate: 1871
+    deathdate: 1953
+    gutenberg_agent_id: '55444'
+    url: http://www.gutenberg.org/2009/agents/55444
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Jaggar
+description: ''
+gutenberg_issued: '2023-01-18'
+identifiers:
+  gutenberg: '69830'
+  lccn: '56012973'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.31822012416129
+pgterms:marc905: 20210411104314jaggar
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Tim Lindell, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: 'United States: Hawaiian Volcano Research Association,1956.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Volcanoes'
+- !lcsh 'Geologists -- Biography'
+- !lcc 'QE'
+- GITenberg
+title: My experiments with volcanoes
+url: http://www.gutenberg.org/ebooks/69830
